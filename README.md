@@ -2,7 +2,8 @@
 
 [![Join the chat at https://gitter.im/Acer-A515-51G-Hackintosh](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Acer-A515-51G-Hackintosh/community)
 
-For Clover Bootloader with MacOS X Support, Visit this [Repo](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh).
+### For Clover Bootloader with MacOS X Support, Visit this [Repo](https://github.com/SiddheshNan/Acer-A515-51G-Hackintosh).
+
 ---
 
 #### Supports MacOS 11.0.x
